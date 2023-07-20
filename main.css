@@ -603,7 +603,7 @@ ul {
   font-weight: 600;
 }
 
-.project__button {
+.project__button_2 {
   display: flex;
   flex-direction: row;
   padding: 12px;
@@ -665,7 +665,7 @@ ul {
   order: 1;
 }
 
-.resume__button {
+.resume__button_2 {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -679,7 +679,7 @@ ul {
   height: 40px;
 }
 
-.resume__coding {
+.resume__coding_2 {
   display: flex;
   margin-top: 36px;
   background-color: #f6f6ff;
@@ -719,7 +719,7 @@ ul {
   background: #fff;
 }
 
-.Contact__me{
+.Contact__me {
   display: flex;
   min-width: 327px;
   height: 56px;
@@ -732,14 +732,14 @@ ul {
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
-  line-height: 52px; 
+  line-height: 52px;
 }
 
-.Contact__text{
+.Contact__text {
   min-width: 327px;
   height: 137px;
   flex-shrink: 0;
-  color:  #ebebff;
+  color: #ebebff;
   text-align: center;
   font-family: var(--FF-primary-poppins);
   font-size: 20px;
