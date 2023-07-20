@@ -604,7 +604,7 @@ ul {
 }
 
 /* Duplicated from line: 366
- * 
+ *
 .project__button {
   display: flex;
   flex-direction: row;
@@ -638,7 +638,7 @@ ul {
 }
 
 /*  Duplicated from line: 515
- * 
+ *
 .myself h4 {
   width: 327px;
   height: 35px;
@@ -659,6 +659,8 @@ ul {
   margin-bottom: var(--bottom-margin-2);
 }
 
+/* Duplicated from line: 529
+ *
 .myself > text > p {
   width: 100%;
   height: 145px;
@@ -670,9 +672,10 @@ ul {
   margin-top: 12px;
   order: 1;
 }
+* */
 
 /* Duplicated from line: 550
- * 
+ *
 .resume__button {
   display: flex;
   flex-direction: row;
@@ -689,7 +692,7 @@ ul {
 * */
 
 /* Duplicated from line: 569
- * 
+ *
 .resume__coding {
   display: flex;
   margin-top: 36px;
@@ -701,6 +704,7 @@ ul {
 }
 * */
 
+/* Duplicated from line: 589
 .resume__coding img {
   display: flex;
   margin-top: 8px;
@@ -708,9 +712,10 @@ ul {
   width: 40px;
   height: 38px;
 }
+* */
 
 /* Duplicated from line: 597
- * 
+ *
 .framework__container {
   display: flex;
   margin-top: 70px;
