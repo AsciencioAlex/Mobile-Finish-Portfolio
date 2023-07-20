@@ -603,7 +603,9 @@ ul {
   font-weight: 600;
 }
 
-.project__button_2 {
+/* Duplicated from line: 366
+ * 
+.project__button {
   display: flex;
   flex-direction: row;
   padding: 12px;
@@ -621,6 +623,7 @@ ul {
   animation-name: portfolio;
   animation-duration: 10s;
 }
+* */
 
 .myself {
   background-size: cover;
@@ -634,6 +637,8 @@ ul {
   border-top-right-radius: 80px;
 }
 
+/*  Duplicated from line: 515
+ * 
 .myself h4 {
   width: 327px;
   height: 35px;
@@ -647,6 +652,7 @@ ul {
   color: #1f3863;
   margin-top: 114px;
 }
+* */
 
 .contact__container_me h2 {
   text-align: center;
@@ -665,7 +671,9 @@ ul {
   order: 1;
 }
 
-.resume__button_2 {
+/* Duplicated from line: 550
+ * 
+.resume__button {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -678,8 +686,11 @@ ul {
   width: 130px;
   height: 40px;
 }
+* */
 
-.resume__coding_2 {
+/* Duplicated from line: 569
+ * 
+.resume__coding {
   display: flex;
   margin-top: 36px;
   background-color: #f6f6ff;
@@ -688,6 +699,7 @@ ul {
   margin-left: 16px;
   border-radius: 8px;
 }
+* */
 
 .resume__coding img {
   display: flex;
@@ -697,6 +709,8 @@ ul {
   height: 38px;
 }
 
+/* Duplicated from line: 597
+ * 
 .framework__container {
   display: flex;
   margin-top: 70px;
@@ -705,6 +719,7 @@ ul {
   width: 10px;
   font-weight: 600;
 }
+* */
 
 .contact__container_me {
   position: absolute;
@@ -746,6 +761,7 @@ ul {
   font-style: normal;
   font-weight: 400;
   line-height: 28px; /* 140% */
+  padding: 12px 24px 12px 24px;
 }
 
 input {
