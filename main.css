@@ -721,12 +721,12 @@ ul {
 
 .Contact__me{
   display: flex;
-  width: 801px;
+  min-width: 327px;
   height: 56px;
   flex-direction: column;
   justify-content: center;
   flex-shrink: 0;
-  color: var #FFF;
+  color: #fff;
   text-align: center;
   font-family: var(--FF-primary-poppins);
   font-size: 40px;
@@ -736,10 +736,10 @@ ul {
 }
 
 .Contact__text{
-  width: 327px;
+  min-width: 327px;
   height: 137px;
   flex-shrink: 0;
-  color:  #EBEBFF;
+  color:  #ebebff;
   text-align: center;
   font-family: var(--FF-primary-poppins);
   font-size: 20px;
@@ -753,7 +753,7 @@ input {
   border-radius: 8px;
   border: 1px solid #cfd8dc;
   background: #fff;
-  width: 327px;
+  min-width: 327px;
   height: 48px;
   margin-top: 20px;
   margin-left: 24px;
@@ -765,7 +765,7 @@ textarea {
   border: 1px solid #cfd8dc;
   background: #fff;
   margin-top: 18px;
-  width: 327px;
+  min-width: 327px;
   height: 170px;
   margin-left: 24px;
 }
