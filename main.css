@@ -778,6 +778,7 @@ input {
   height: 48px;
   margin-top: 20px;
   margin-left: 24px;
+  padding: 15px 38px 15px 16px;
 }
 
 textarea {
@@ -789,6 +790,7 @@ textarea {
   min-width: 327px;
   height: 170px;
   margin-left: 24px;
+  padding: 15px 38px 15px 16px;
 }
 
 .contact__button {
