@@ -617,7 +617,6 @@ ul {
   border-top-right-radius: 80px;
 }
 
-
 .contact__container_me h2 {
   text-align: center;
   margin-bottom: var(--bottom-margin-2);
@@ -662,12 +661,11 @@ ul {
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: 28px; 
+  line-height: 28px;
   padding-top: 12px;
   padding-left: 24px;
   padding-bottom: 12px;
   padding-right: 24px;
-
 }
 
 input {
