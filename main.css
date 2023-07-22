@@ -695,7 +695,7 @@ textarea {
   align-items: center;
   border-radius: 8px;
   background: #fff;
-  height: 42px;
+  padding: 5px 10px;
   width: 142px;
   gap: 45px;
 }
