@@ -716,10 +716,7 @@ textarea {
   padding-top: 90px;
   padding-left: 24px;
   padding-right: 24px;
-  border-top-left-radius: 90px;
   background-size: contain, cover;
-  background-position: right;
-  background-clip: padding-box, padding-box;
   background-repeat: no-repeat, no-repeat;
   display: flex;
   flex-direction: column;
